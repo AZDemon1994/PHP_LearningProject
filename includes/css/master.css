@@ -1,9 +1,14 @@
 body{
   background-color: #f0f0f0;
 }
+/* ======= Register Page Css */
+#register-card {
+  margin-top: 50px;
+  max-width: 500px;
+  box-shadow: 5px 10px 10px gray;
+}
 
 /* ======= Login Page CSS -========= */
-
 #login-card {
   margin-top: calc(50%/3);
   max-widtH: 400px;
