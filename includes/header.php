@@ -5,9 +5,9 @@
     <title></title>
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="includes/css/master.css">
     <script src="https://kit.fontawesome.com/0562bad09b.js" crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" href="includes/css/master.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg bg-light">
