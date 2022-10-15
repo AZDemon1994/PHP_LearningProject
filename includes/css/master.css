@@ -1,0 +1,19 @@
+body {
+  backgound-color: red;
+}
+
+/* ======= Login Page CSS -========= */
+#login-card {
+  margin-top: calc(50%/3);
+  max-widtH: 400px;
+}
+
+#login-card .title {
+  /* text-align: center; */
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#login-card .body {
+  max-width: 70%;
+  margin: auto;
+}
