@@ -1,11 +1,13 @@
-body {
-  backgound-color: red;
+body{
+  background-color: #f0f0f0;
 }
 
 /* ======= Login Page CSS -========= */
+
 #login-card {
   margin-top: calc(50%/3);
   max-widtH: 400px;
+  box-shadow: 5px 10px 10px gray;
 }
 
 #login-card .title {
